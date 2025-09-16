@@ -68,3 +68,6 @@ print("Part 3: result =", result3)
 result4 = a - (result3 * b) 
 print("Part 4: result =", result4)
 # End of Part 4 ----------------------
+
+result5 = a % b
+print("Modulo Code = ", result5)
